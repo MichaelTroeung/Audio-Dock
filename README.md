@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Images/Audio_Dock_Icon.ng" width = "70"><br/>
+  <img src="/Images/Audio_Dock_Icon.png" width = "70"><br/>
 <b>Icon Converter</b>
 </p>
 

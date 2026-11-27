@@ -7,7 +7,6 @@
 
 <br/>
 
-
 <p align="center">
 <a href="https://github.com/MichaelTroeung/Audio-Dock/releases/download/Release/Audio.Dock.app.zip"><img src="/Images/macOS_Download_Button.png" width="20%"></a>
 </p>

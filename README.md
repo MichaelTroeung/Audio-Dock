@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/Images/Audio_Dock_Icon.png" width = "70"><br/>
-<b>Icon Converter</b>
+<b>Audio Dock</b>
 </p>
 
 <br/>
@@ -31,7 +31,7 @@ Resizing images and conversion from PNG to .incs and .ico takes advantage of the
 <br/>
 
 ### Project Files 
-[IconConverter Source Files](https://github.com/MichaelTroeung/Icon-Converter/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Audio Dock Source Files](https://github.com/MichaelTroeung/Icon-Converter/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Icon-Converter/releases/download/Release/IconConverter-1.0.1.dmg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>

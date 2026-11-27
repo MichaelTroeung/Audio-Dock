@@ -17,9 +17,9 @@
 </p>
 
 ### Features
-- Converts PNG images into .icns and .ico icon formats
-- Icons generated include a series of resolutions that support a variety of sizes used through each Operating System (OS)
-- Exports all files directly onto the desktop
+- Supports 5 different visualization styles
+- Transparent backgrounds allows visualization to seamlessly overlay
+- Powered by P5.js
 <br/>
 
 ### Languages/Frameworks
